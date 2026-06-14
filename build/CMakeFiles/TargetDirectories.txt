@@ -1,3 +1,0 @@
-C:/Users/Basti/Desktop/Assembler/build/CMakeFiles/Assembler.dir
-C:/Users/Basti/Desktop/Assembler/build/CMakeFiles/edit_cache.dir
-C:/Users/Basti/Desktop/Assembler/build/CMakeFiles/rebuild_cache.dir
