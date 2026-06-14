@@ -1,0 +1,44 @@
+[
+{
+  "directory": "C:/Users/Basti/Desktop/Assembler/build",
+  "command": "C:\\PROGRA~1\\W64DEV~1\\bin\\G__~1.EXE -IC:/Users/Basti/Desktop/Assembler/Assembler/src -g -std=gnu++17 -o CMakeFiles\\Assembler.dir\\src\\AST\\AST.cpp.obj -c C:\\Users\\Basti\\Desktop\\Assembler\\Assembler\\src\\AST\\AST.cpp",
+  "file": "C:/Users/Basti/Desktop/Assembler/Assembler/src/AST/AST.cpp",
+  "output": "C:/Users/Basti/Desktop/Assembler/build/CMakeFiles/Assembler.dir/src/AST/AST.cpp.obj"
+},
+{
+  "directory": "C:/Users/Basti/Desktop/Assembler/build",
+  "command": "C:\\PROGRA~1\\W64DEV~1\\bin\\G__~1.EXE -IC:/Users/Basti/Desktop/Assembler/Assembler/src -g -std=gnu++17 -o CMakeFiles\\Assembler.dir\\src\\AST\\visitors\\ObjectCodeGenerator.cpp.obj -c C:\\Users\\Basti\\Desktop\\Assembler\\Assembler\\src\\AST\\visitors\\ObjectCodeGenerator.cpp",
+  "file": "C:/Users/Basti/Desktop/Assembler/Assembler/src/AST/visitors/ObjectCodeGenerator.cpp",
+  "output": "C:/Users/Basti/Desktop/Assembler/build/CMakeFiles/Assembler.dir/src/AST/visitors/ObjectCodeGenerator.cpp.obj"
+},
+{
+  "directory": "C:/Users/Basti/Desktop/Assembler/build",
+  "command": "C:\\PROGRA~1\\W64DEV~1\\bin\\G__~1.EXE -IC:/Users/Basti/Desktop/Assembler/Assembler/src -g -std=gnu++17 -o CMakeFiles\\Assembler.dir\\src\\AST\\visitors\\staticAnalisysVisitor.cpp.obj -c C:\\Users\\Basti\\Desktop\\Assembler\\Assembler\\src\\AST\\visitors\\staticAnalisysVisitor.cpp",
+  "file": "C:/Users/Basti/Desktop/Assembler/Assembler/src/AST/visitors/staticAnalisysVisitor.cpp",
+  "output": "C:/Users/Basti/Desktop/Assembler/build/CMakeFiles/Assembler.dir/src/AST/visitors/staticAnalisysVisitor.cpp.obj"
+},
+{
+  "directory": "C:/Users/Basti/Desktop/Assembler/build",
+  "command": "C:\\PROGRA~1\\W64DEV~1\\bin\\G__~1.EXE -IC:/Users/Basti/Desktop/Assembler/Assembler/src -g -std=gnu++17 -o CMakeFiles\\Assembler.dir\\src\\AST\\visitors\\symbolTableVisitor.cpp.obj -c C:\\Users\\Basti\\Desktop\\Assembler\\Assembler\\src\\AST\\visitors\\symbolTableVisitor.cpp",
+  "file": "C:/Users/Basti/Desktop/Assembler/Assembler/src/AST/visitors/symbolTableVisitor.cpp",
+  "output": "C:/Users/Basti/Desktop/Assembler/build/CMakeFiles/Assembler.dir/src/AST/visitors/symbolTableVisitor.cpp.obj"
+},
+{
+  "directory": "C:/Users/Basti/Desktop/Assembler/build",
+  "command": "C:\\PROGRA~1\\W64DEV~1\\bin\\G__~1.EXE -IC:/Users/Basti/Desktop/Assembler/Assembler/src -g -std=gnu++17 -o CMakeFiles\\Assembler.dir\\src\\Lexer\\Lexer.cpp.obj -c C:\\Users\\Basti\\Desktop\\Assembler\\Assembler\\src\\Lexer\\Lexer.cpp",
+  "file": "C:/Users/Basti/Desktop/Assembler/Assembler/src/Lexer/Lexer.cpp",
+  "output": "C:/Users/Basti/Desktop/Assembler/build/CMakeFiles/Assembler.dir/src/Lexer/Lexer.cpp.obj"
+},
+{
+  "directory": "C:/Users/Basti/Desktop/Assembler/build",
+  "command": "C:\\PROGRA~1\\W64DEV~1\\bin\\G__~1.EXE -IC:/Users/Basti/Desktop/Assembler/Assembler/src -g -std=gnu++17 -o CMakeFiles\\Assembler.dir\\src\\Parser\\Parser.cpp.obj -c C:\\Users\\Basti\\Desktop\\Assembler\\Assembler\\src\\Parser\\Parser.cpp",
+  "file": "C:/Users/Basti/Desktop/Assembler/Assembler/src/Parser/Parser.cpp",
+  "output": "C:/Users/Basti/Desktop/Assembler/build/CMakeFiles/Assembler.dir/src/Parser/Parser.cpp.obj"
+},
+{
+  "directory": "C:/Users/Basti/Desktop/Assembler/build",
+  "command": "C:\\PROGRA~1\\W64DEV~1\\bin\\G__~1.EXE -IC:/Users/Basti/Desktop/Assembler/Assembler/src -g -std=gnu++17 -o CMakeFiles\\Assembler.dir\\src\\main.cpp.obj -c C:\\Users\\Basti\\Desktop\\Assembler\\Assembler\\src\\main.cpp",
+  "file": "C:/Users/Basti/Desktop/Assembler/Assembler/src/main.cpp",
+  "output": "C:/Users/Basti/Desktop/Assembler/build/CMakeFiles/Assembler.dir/src/main.cpp.obj"
+}
+]
